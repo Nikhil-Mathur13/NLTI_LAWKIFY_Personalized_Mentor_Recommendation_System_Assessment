@@ -25,11 +25,12 @@ CLAT aspirants often struggle to find mentors who align with their academic goal
 - Matplotlib (Visualization)
 
 ## Proces to be followed 
-Our first dtep is to collect the data for our model development; make the data for the aspirants with the partcular data fields.
+
+Our first step is to collect the data for our model development; make the data for the aspirants with the partcular data fields.
 ---
 next step is to provide the feature processing , to come up with the relevancy of the data that are required for the system , so that
 will able to connect with the requiremnts for our analysis part.
-----
+---
 There are various segments as well in order to make "Data Cleaning" in order to get the meaningful data as well.
 ----
 Next will perform "Cosine Similarity" in order to rank the mentors.
